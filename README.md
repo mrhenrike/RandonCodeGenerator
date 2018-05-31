@@ -1,11 +1,12 @@
 # Randon Code Generator
 Gerador de Códigos de Validação para Certificados do União Geek
-
 Copyright (c) 2018, União Geek, Henrique Santos <henrique.santos@uniaogeek.com.br>
 
 ## Opções gerais:
   -h    Exibe uma lista de opções.
+  
   -a    Exibe o Copyright e repositório oficial.
+  
 ## Argumentos obrigatórios:
   -t <tipo>    Deve ser especificado o tipo de dado que irá retornar. Vide abaixo.
      --number  Retorna apenas números
