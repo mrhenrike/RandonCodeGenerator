@@ -23,7 +23,13 @@ Argumentos opcionais (se utilizado é obrigatório o argumento -t):
         Exporta os dados gerados para um arquivo. Uso: -o <nomedoarquivo>
   
 Exemplo de uso: 
-  ./`basename $0` -t --alfa -s 10 -q 2
+  ./rcgen.sh -t --alfa -s 10 -q 2
      lm9wxwlNk8
      NdZtpwDNa0
+     
+     
+  ./rcgen.sh -t --alfa -s 10 -q 2 -o lista.txt
+  cat lista.txt
+     lm9wxwlNk8
+     NdZtpwDNa0   
 ```
