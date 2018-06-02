@@ -79,7 +79,7 @@ Script `basename $0`
 
 Criado por André Henrique
 
-Repositório no GITHUB: https://github.com/mrhenrike/geradorStringRandom/
+Repositório no GITHUB: https://github.com/mrhenrike/RandonCodeGenerator/
 "
 }
 
